@@ -29,3 +29,4 @@ D2言語を中間DSLとして用いた会議トランスクリプト→コミッ
 
 See [LICENSE](./LICENSE) and [NOTICE](./NOTICE) for details.
 
+
