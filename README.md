@@ -28,3 +28,4 @@ D2言語を中間DSLとして用いた会議トランスクリプト→コミッ
 - D2プラグインコア / D2 plugin core：FSL-1.1-Apache-2.0
 
 See [LICENSE](./LICENSE) and [NOTICE](./NOTICE) for details.
+
